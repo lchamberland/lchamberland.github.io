@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Deinopis
+title: Gasteracantha
 permalink: /Gasteracantha/
 tags: Gasteracantha
 ---
