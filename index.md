@@ -5,7 +5,7 @@ title: About
 tags: about
 ---
 
-I study the evolutionary and biogeographical history of spiders and other arachnids in the Caribbean. My research is part of an ongoing collaborative project, Caribbean Island Biogeography <a href="http://www.islandbiogeography.org">(CARBIO)</a>, led by Dr. Ingi Agnarsson of the University of Vermont, aimed at understanding why the Caribbean is a biodiversity hotspot. I focus on <i>Deinopis</i>, the ogre-faced or net-casting spider, and trying to understand how they have dispersed and diversified throughout the Caribbean and on a global scale.
+I study the evolutionary and biogeographical history of spiders and other arachnids in the Caribbean. My research is part of an ongoing collaborative project, Caribbean Island Biogeography <a href="http://www.islandbiogeography.org">(CARBIO)</a>, aimed at understanding why the Caribbean is a biodiversity hotspot. I focus on <i>Deinopis</i>, the ogre-faced or net-casting spider, and trying to understand how they have dispersed and diversified throughout the Caribbean and on a global scale.
 
 {:.center}
 
