@@ -32,9 +32,7 @@
 
 ### Research Experience
 
-2015 - 2020
-
-:	**Dissertation Research**,  [Dr. Ingi Agnarsson's lab](https://www.uvm.edu/~biology/?Page=faculty/agnarsson.php&SM=facultysubmenu.html), University of Vermont	
+2015 - 2020 | **Dissertation Research**,  [Dr. Ingi Agnarsson's lab](https://www.uvm.edu/~biology/?Page=faculty/agnarsson.php&SM=facultysubmenu.html), University of Vermont	
 
 2016					Poster presentation, 
 
@@ -66,9 +64,3 @@
 
 
 
-
-
-```
-
-
-```
