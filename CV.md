@@ -7,9 +7,8 @@
 <p>I use phylogenetics and biogeographic methods to study the dispersal and diversification of Deinopis, the net-casting spider in the Caribbean. I am working towards expanding taxon sampling of Deinopis globally to resolve the taxonomy of this understudied genus of arachnids.</p>
 <hr />
 <h3>Education</h3>
-<p>2015 - 2020 (expected) </p>
-<p>:	<strong>PhD Biology</strong>, University of Vermont, Burlington, VT</p>
-<p>2009 - 2013 : <strong>BA Biology and Anthropology</strong>, University of Vermont, Burlington, VT`</p>
+<p>2015 - 2020 (expected) <strong>PhD Biology</strong>, University of Vermont, Burlington, VT</p>
+<p>2009 - 2013 <strong>BA Biology and Anthropology</strong>, University of Vermont, Burlington, VT`</p>
 <hr />
 <h3>Awards and Grants</h3>
 <p>2016					Sigma Xi Grant in Research Award - $1000</p>
@@ -30,3 +29,10 @@
 <p></p>
 <p></p>
 <p></p>
+<p></p>
+<p></p>
+<p></p>
+<pre lang='undefined'>
+
+
+</pre>
