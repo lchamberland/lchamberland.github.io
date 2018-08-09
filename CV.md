@@ -30,8 +30,4 @@
 <hr />
 <h3>Publications</h3>
 <p><strong>Chamberland, L.</strong>, McHugh, A.K., Kechejian, S., Binford, G., Bond, J.E., Coddington, J., Dolman, G., Hamilton, C.A., Harvey, M.S., Kuntner, M., Agnarsson, I. 2018. From Gondwana to GAARlandia: Evolutionary history and biogeography of <i>Deinopis</i> the ogre-faced spiders. <i>Journal of Biogeography</i></p>
-<p></p>
-<pre lang='undefined'>
 
-
-</pre>
