@@ -16,9 +16,9 @@
 <p>2016					UVM Mini Travel Grant - $450</p>
 <hr />
 <h3>Research Experience</h3>
-<p>2015 - 2020         <strong>Dissertation Research</strong>,  <a href='https://www.uvm.edu/~biology/?Page=faculty/agnarsson.php&SM=facultysubmenu.html'>Dr. Ingi Agnarsson&#39;s lab</a>, University of Vermont	</p>
-<p>2016					Poster presentation, </p>
-<p>2013-2015				<strong>Laboratory Research Techician</strong>`</p>
+<p>2015 - 2020         <strong>Dissertation Research</strong>,  <a href='https://www.uvm.edu/~biology/?Page=faculty/agnarsson.php&SM=facultysubmenu.html'>Agnarsson Lab</a>, University of Vermont	</p>
+<p>2016					Poster presentation, 20th International Congress of Arachnology, Golden, CO</p>
+<p>2013-2015				<strong>Laboratory Research Techician</strong>,`<a href='https://www.uvm.edu/~biology/?Page=faculty/agnarsson.php&SM=facultysubmenu.html'>Agnarsson Lab</a>, University of Vermont</p>
 <hr />
 <h3>Teaching, Outreach Experience</h3>
 <p>2018			<strong>Student Teacher</strong>, Biology, Vermont Commons School</p>
