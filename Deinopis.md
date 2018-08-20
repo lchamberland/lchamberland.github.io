@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Deinopis
+title: <i>Deinopis</i>
 permalink: /Deinopis/
 tags: Deinopis
 ---
