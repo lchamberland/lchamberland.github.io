@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gasteracantha
+title: <i>Gasteracantha</i>
 permalink: /Gasteracantha/
 tags: Gasteracantha
 ---
