@@ -5,6 +5,6 @@ permalink: /Deinopis/
 tags: Deinopis
 ---
 
-This is where I will put info on Deinopis 
 
-<center> photo </center>
+![](https://cloud.githubusercontent.com/assets/21958390/22332417/d1d81346-e39e-11e6-8586-9d740dd0435e.jpg)
+
