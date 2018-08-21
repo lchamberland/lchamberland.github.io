@@ -10,7 +10,7 @@
 <p><strong>Chamberland, L.</strong>, McHugh, A.K., Kechejian, S., Binford, G., Bond, J.E., Coddington, J., Dolman, G., Hamilton, C.A., Harvey, M.S., Kuntner, M., Agnarsson, I. 2018. From Gondwana to GAARlandia: Evolutionary history and biogeography of <i>Deinopis</i> the ogre-faced spiders. <i>Journal of Biogeography</i></p>
 <hr />
 <h3>Education</h3>
-<p>2015 - 2020 (expected) <strong>PhD Biology</strong>, University of Vermont, Burlington, VT</p>
+<p>2015 - present <strong>PhD Biology</strong>, University of Vermont, Burlington, VT</p>
 <p>2009 - 2013 <strong>BA Biology and Anthropology</strong>, University of Vermont, Burlington, VT`</p>
 <hr />
 <h3>Awards and Grants</h3>
