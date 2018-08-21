@@ -9,5 +9,5 @@ My research explores the interplay between long-distance dispersal and vicarianc
 
 {:.center}
 
-![](https://github.com/lchamberland/lchamberland.github.io/blob/master/images/profilepicwebsite.jpg)
+![](https://github.com/lchamberland/lchamberland.github.io/issues/5)
 
