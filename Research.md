@@ -6,7 +6,7 @@ tags: Research
 ---
 
 ---
-<div align="right">
+<div align="center">
   <header>
     <h3><i>Deinopis</i></h3>
       </header>
