@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Research
 <!-- permalink: /Research/ -->
 tags: Research
 ---
@@ -10,8 +9,6 @@ tags: Research
 <header>
     <h2><i>Deinopis</i></h2>
       </header>
-
-<br>
 
 ![](https://user-images.githubusercontent.com/21958390/44419031-0aaae380-a548-11e8-85b1-6df2373e670a.jpg)
 
