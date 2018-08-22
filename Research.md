@@ -1,8 +1,11 @@
 ---
 layout: page
+title: Research
 <!-- permalink: /Research/ -->
 tags: Research
 ---
+
+![](https://cloud.githubusercontent.com/assets/21958390/22185958/949e0312-e0bc-11e6-88a2-14ce0bb73954.jpg)
 
 ---
 
