@@ -30,7 +30,6 @@ tags: Research
 
 ---  
 
- <p align="center">
-![](https://cloud.githubusercontent.com/assets/21958390/22185958/949e0312-e0bc-11e6-88a2-14ce0bb73954.jpg)
-</p>
+![](https://cloud.githubusercontent.com/assets/21958390/22185958/949e0312-e0bc-11e6-88a2-14ce0bb73954.jpg){ width="800" height="600" style="display: block; margin: 0 auto" }
+
 
