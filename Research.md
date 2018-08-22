@@ -8,7 +8,7 @@ tags: Research
 ---
 
   <header>
-    <h3><i>Deinopis</i></h3>
+    <h2><i>Deinopis</i></h2>
       </header>
 <br>
 
@@ -21,8 +21,9 @@ tags: Research
 
 
   <header>
-    <h3><i>Gasteracantha</i></h3>
+    <h2><i>Gasteracantha</i></h2>
       </header>
+ <br>     
 
 ![](https://cloud.githubusercontent.com/assets/21958390/22332417/d1d81346-e39e-11e6-8586-9d740dd0435e.jpg) 
 
