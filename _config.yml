@@ -1,14 +1,14 @@
 # Site settings
 title:       Lisa Chamberland
 email:       chamberlandlisa8@gmail.com
-author:      Lisa chamberland
-description: "Phylogeography of Net-Casting Spiders"
-baseurl:     ""
-url:         "lchamberland.github.io"
+author:      Lisa Chamberland
+description: "Evolutionary history and biogeography of net-casitng spiders"
+baseurl:     "https://lchamberland.github.io"
+url:         "https://lchamberland.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
-google_verification:
+google_verification: googlef08234ba90946a11.html
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
 google_analytics:
