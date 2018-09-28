@@ -1,7 +1,7 @@
 <h1>Lisa Chamberland</h1>
 <p><strong>Address</strong> 120A Marsh Life Science Building</p>
 <p><strong>Phone</strong> (860) 882-8201     <strong>Email</strong> <a href='mailto:chamberlandlisa8@gmail.com' target='_blank' >chamberlandlisa8@gmail.com</a></p>
-<p><strong>Github</strong> <a href='https://uvm.edu/~lchambe1'>lchamberland</a>     <strong>Website</strong> <a href='https://uvm.edu/~lchambe1'>https://lchamberland.github.io</a> </p>
+<p><strong>Github</strong> <a href='https://uvm.edu/~lchambe1'>lchamberland</a>     <strong>Website</strong> <a href='https://uvm.edu/~lchambe1'>uvm.edu/~lchambe1</a> </p>
 <hr />
 <h3>Research Objectives</h3>
 <p>My research explores the interplay between long-distance dispersal and vicariance in shaping the evolutionary history and biogeography of <i>Deinopis</i>, the net-casting spiders.</p>
