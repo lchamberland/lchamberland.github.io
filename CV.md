@@ -1,4 +1,4 @@
-[pdf]https://github.com/lchamberland/lchamberland.github.io/blob/master/Chamberland_CV_2019.pdf
+[embed]https://github.com/lchamberland/lchamberland.github.io/blob/master/Chamberland_CV_2019.pdf[/embed] 
 
 <h1>Lisa Chamberland</h1>
 <p><strong>Address</strong> 120A Marsh Life Science Building</p>
