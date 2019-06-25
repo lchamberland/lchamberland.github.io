@@ -14,6 +14,7 @@
 <p>2009 - 2013 <strong>BA Biology and Anthropology</strong>, University of Vermont, Burlington, VT`</p>
 <hr />
 <h3>Awards and Grants</h3>
+<p>2019					The John Wheeler Graduate Student Research and Development Award - $2000</p>
 <p>2019					UVM Mini Travel Grant - $450</p>
 <p>2018					American Arachnological Society Vincent Roth Fund for Systematics Research - $1000</p>
 <p>2016					Sigma Xi Grant in Research Award - $1000</p>
