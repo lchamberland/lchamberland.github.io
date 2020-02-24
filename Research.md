@@ -3,10 +3,7 @@ layout: page
 <!-- permalink: /Research/ -->
 tags: Research
 ---
-
-<header>
-<h2> Link to my <a href="https://orcid.org/0000-0002-7592-7885">Dryad repository</a>. </h2>
-      </header>   
+ 
 <header>
     <h2><i>Deinopidae (the net-casting/ogre-faced spiders)</i></h2>
       </header>   
