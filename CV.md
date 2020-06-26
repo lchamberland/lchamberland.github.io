@@ -39,12 +39,12 @@
 <p>2018 | Assistant Teacher, 9th Grade Biology, Vermont Commons School</p>
 <p>2016 | Graduate Teaching Assistant, Ecology and Evolution lab, University of Vermont</p>
 <p>2013-2014 | Upward Bound Teacher, Spiders of Vermont course, University of Vermont
-<br><i>Upward Bound is a federally funded education program focused on providing opportunities to underrepresented high school students. I introduced students to methods in field collecting and identifying bugs and spiders in addition to DNA extractions. We also discussed concepts in biodiversity and phylogenetics.</p> 
+<br><i>Upward Bound is a federally funded education program focused on providing opportunities to underrepresented high school students. I introduced students to methods in field collecting and identifying bugs and spiders in addition to DNA extractions. We also discussed concepts in biodiversity and phylogenetics.</i></p> 
 
 <h3>Presentations</h3>
 
 <p>2019 | <strong>Invited lecture</strong>, Field Zoology, University of Vermont
-  <br><i>Global biogeography of the net-casting spiders (Deinopidae)</i></p>
+<br><i>Global biogeography of the net-casting spiders (Deinopidae)</i></p>
 <p>2019 | <strong>Invited lecture</strong>, Vermont Commons School (high school)
 <br><i>Introduction to biogeography and spiders of the Caribbean</i></p>
 <p>2019 | <strong>Invited lecture</strong>, Field Zoology, University of Vermont 
