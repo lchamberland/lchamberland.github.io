@@ -1,4 +1,4 @@
-<p><a href='https://github.com/lchamberland/lchamberland.github.io/raw/master/Chamberland_CV_2020_github.pdf'>download full CV</a>
+<p><a href='https://github.com/lchamberland/lchamberland.github.io/raw/master/Chamberland_CV_2020_github.pdf'>download full CV pdf</a>
 <h1>Lisa Chamberland</h1>
 <p><strong>Address</strong> 120A Marsh Life Science Building</p>
 <p><strong>Phone</strong> (860) 882-8201     <strong>Email</strong> <a href='mailto:chamberlandlisa8@gmail.com' target='_blank' >chamberlandlisa8@gmail.com</a></p>
