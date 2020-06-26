@@ -9,9 +9,9 @@
 <hr />
 <h3>Education</h3>
 
-<p>2015-2020(expected)PhD Biology, University of Vermont, Burlington, VT 
-  <br><p style="margin-left:200px; margin-right:50px;">Advisor: Dr. Ingi Agnarsson</p>
-    <br>Title: From Gondwana to GAARlandia: Evolutionary history and biogeography of the net-casting spider (Deinopidae)</p>
+<p>2015-2020(expected) PhD Biology, University of Vermont, Burlington, VT 
+<br>Advisor: Dr. Ingi Agnarsson
+<br>Title: From Gondwana to GAARlandia: Evolutionary history and biogeography of the net-casting spider (Deinopidae)</p>
 <p>2009-2013 	BA Biology and Anthropology, University of Vermont, Burlington, VT`</p>
 <hr />
 <h3>Publications</h3>
