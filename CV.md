@@ -31,7 +31,8 @@
 <hr />
 <h3>Research Experience</h3>
 <p>2015-2020 | <strong>Dissertation Research</strong>,  <a href='http://www.theridiidae.com'>Agnarsson Lab</a>, University of Vermont	</p>
-<p>2013-2015 | <strong>Laboratory Research Techician</strong>,<a href='http://www.theridiidae.com'>Agnarsson Lab</a>, University of Vermont</p>
+<p>2019 | <strong>Graduate Research Assistantship</strong>,  <a href='http://www.theridiidae.com'>Helms-Cahan Lab</a>, University of Vermont	</p>
+<p>2013-2015 | <strong>Laboratory Research Techician</strong>, <a href='http://www.theridiidae.com'>Agnarsson Lab</a>, University of Vermont</p>
 <hr />
 <h3>Teaching</h3>
 <p>2016-2019 | Guest Lecturer, Field Zoology, University of Vermont</p>
