@@ -124,8 +124,6 @@
 <li>Taxonomy, insect and arachnid identification</li>
 <li>insect and arachnid dissections</li>
 <li>Visionary Digital BK lab system</li>
-<li>HTML – Website development</li>
-<li>Microsoft Office – Data preparation, organization, and word processing</li>
 </ul>
 </p>
 <hr />
