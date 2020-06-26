@@ -30,7 +30,6 @@
 <p>2015-2020 | <strong>Dissertation Research</strong>,  <a href='http://www.theridiidae.com'>Agnarsson Lab</a>, University of Vermont	</p>
 <p>2013-2015 | <strong>Laboratory Research Techician</strong>,<a href='http://www.theridiidae.com'>Agnarsson Lab</a>, University of Vermont</p>
 <hr />
-
 <h3>Teaching</h3>
 <p>2016-2019 | Guest Lecturer, Field Zoology, University of Vermont</p>
 <p>2015-2019 | Graduate Teaching Assistant, Field Zoology lab, University of Vermont</p>
@@ -40,9 +39,8 @@
 <p>2016 | Graduate Teaching Assistant, Ecology and Evolution lab, University of Vermont</p>
 <p>2013-2014 | Upward Bound Teacher, Spiders of Vermont course, University of Vermont
 <br><i>Upward Bound is a federally funded education program focused on providing opportunities to underrepresented high school students. I introduced students to methods in field collecting and identifying bugs and spiders in addition to DNA extractions. We also discussed concepts in biodiversity and phylogenetics.</i></p> 
-
+<hr />
 <h3>Presentations</h3>
-
 <p>2019 | <strong>Invited lecture</strong>, Field Zoology, University of Vermont
 <br><i>Global biogeography of the net-casting spiders (Deinopidae)</i></p>
 <p>2019 | <strong>Invited lecture</strong>, Vermont Commons School (high school)
@@ -72,9 +70,8 @@
 <br><i>Global biogeography   of  ogre-faced   spider mirrors geologic history</i></p>
 <p>2015 | Biolunch, UVM Department of Biology, Burlington, VT
 <br><i>Global biogeography   of ogre-faced   spider mirrors geologic history</i></p>
-
+<hr />
 <h3>Outreach and mentorship</h3>
-
 <p>2014-2020 | Mentor, Agnarsson Lab, University of Vermont, Burlington, VT
 <br><i>As a lab technician and then a graduate student, I trained graduate, undergraduate, and high school students on identifying and taxonomy of spiders and arachnids as well as molecular   methods, phylogentic/omic and   biogeographic   data analyses, and identifying and photographing  specimens</i></p>
 <p>2018-2020 | Tess Ruddy**, Vermont Commons School
@@ -100,7 +97,7 @@
 
 <p><i>*undergraduate students</i>
 <br><i>**high school students</i></p>
-
+<hr />
 
 
 
