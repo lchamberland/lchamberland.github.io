@@ -26,6 +26,6 @@ tags: Research
     </p>
 
 <p>
-![field_photo_me](https://user-images.githubusercontent.com/21958390/85877220-cec8b100-b7a4-11ea-9073-69711796d8dc.jpg){:.center}
+![](https://user-images.githubusercontent.com/21958390/85877220-cec8b100-b7a4-11ea-9073-69711796d8dc.jpg)
 Australian collaborator, Matt Elmer, and I collecting deinopids in Queensland (Jan 2020). </p>
 
