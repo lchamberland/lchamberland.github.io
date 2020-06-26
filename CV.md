@@ -123,9 +123,7 @@
 <li>RNA extraction/li>
 <li>Taxonomy, insect and arachnid identification</li>
 <li>insect and arachnid dissections</li>
-<li>Visionary Digital BK lab system</li>
-</ul>
-</p>
+<li>Visionary Digital BK lab system</li> </ul> </p>
 <hr />
 
 
