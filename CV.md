@@ -18,7 +18,7 @@
 <p><strong>Chamberland L</strong>, Salgado‐Roa FC, Basco A, Cranz A, Binford G, Agnarsson I. 2020. Phylogeography of the widespread Caribbean spiny orb weaver <i>Gasteracantha cancriformis</i>. <i>Peer J</i>. 8:e8976 DOI: <a href='https://doi.org/10.7717/peerj.8976'>10.7717/peerj.8976</a></p>
 <hr />
 <h3>Awards and Grants</h3>
-<p>2019/2020 | Graduate Teaching Assistant of the Year in the Department of Biology at the University of Vermont</p>
+<p>2019/2020 | Graduate Teaching Assistant of the Year in the Department of Biology at the University of Vermont - $100</p>
 <p>2020 | American Arachnological Society Vincent Roth Fund for Systematics Research - $250</p>
 <p>2019 | The John Wheeler Graduate Student Research and Development Award - $2000</p>
 <p>2019 | UVM Mini Travel Grant - $450</p>
