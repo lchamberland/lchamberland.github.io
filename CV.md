@@ -1,10 +1,10 @@
 <p><a href='https://github.com/lchamberland/lchamberland.github.io/raw/master/Chamberland_CV_2020_github.pdf'>download full CV pdf</a>
-<h1><p style="text-align:center">Lisa Chamberland</p></h1>
+<h1>Lisa Chamberland</h1>
 <p style="text-align:center"><strong>Address</strong> 120A Marsh Life Science Building 
 <br>University of Vermont
 <br>Burlington, VT 05401</p>
-<pstyle="text-align:center"><strong>Phone</strong> (860) 882-8201 | <strong>Email</strong> <a href='mailto:chamberlandlisa8@gmail.com' target='_blank' >chamberlandlisa8@gmail.com</a></p>
-<pstyle="text-align:center"><strong>Github</strong> <a href='https://uvm.edu/~lchambe1'>lchamberland</a> | <strong>Website</strong> <a href='https://uvm.edu/~lchambe1'>uvm.edu/~lchambe1</a> </p>
+<p style="text-align:center"><strong>Phone</strong> (860) 882-8201 | <strong>Email</strong> <a href='mailto:chamberlandlisa8@gmail.com' target='_blank' >chamberlandlisa8@gmail.com</a></p>
+<p style="text-align:center"><strong>Github</strong> <a href='https://uvm.edu/~lchambe1'>lchamberland</a> | <strong>Website</strong> <a href='https://uvm.edu/~lchambe1'>uvm.edu/~lchambe1</a> </p>
 <hr />
 <h3>Research Objectives</h3>
 <p>My research explores the interplay between long-distance dispersal and vicariance in shaping the evolutionary history and biogeography of <i>Deinopis</i>, the net-casting spiders.</p>
