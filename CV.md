@@ -118,7 +118,7 @@
 <li>Population genetics - Arlequin, DnaSP, Mega</li>
 <li>Sequence reading, editing, cleanup - Mesquite, Phred and Phrap</li>
 <li>R and (R)Markdown – Data analysis/visualization and word processing</li>
-<li>HTML – Website development</li>
+<li>HTML, CSS, Rmd</li>
 <li>Microsoft Office – Data preparation, organization, and word processing</li>
 </ul>
 </p>
