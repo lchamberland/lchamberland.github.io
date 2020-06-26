@@ -126,6 +126,6 @@
 <li>insect and arachnid dissections</li>
 <li>Visionary Digital BK lab system</li>
 </p>
-<hr />
+
 
 
