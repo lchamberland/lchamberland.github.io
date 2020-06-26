@@ -98,6 +98,33 @@
 <p><i>*undergraduate students</i>
 <br><i>**high school students</i></p>
 <hr />
+<h3>Journal Referee</h3>
+2019/2020 | Systematic Biology 
+<hr />
+<h3>Membership</h3>
+2016-2020 | American Arachnological Society
+2016,2018-2019 | International Society of Arachnology
+<hr />
+<h3>Skills</h3>
+<p>Computing
+<ul>
+<li>Phylogenetics - Bayesian (MrBayes, BEAST), Maximum likelihood (RAxML), phytools</li>
+<li>Biogeography - BioGeoBEARS, RASP, LaGrange</li>
+<li>Sequence analysis - Mesquite</li>
+<li>R and (R)Markdown – Data analysis/visualization and word processing</li>
+<li>HTML – Website development</li>
+<li>Microsoft Office – Data preparation, organization, and word processing</li>
+</ul>
+</p>
+
+• 	
+• 	
+Laboratory
+
+• 	DNA extraction   for  standard  Sanger  sequencing  and  Next  Generation  sequencing
+(Anchored Hybrid Enrichment), PCR, gel electrophoresis
+• 	Taxonomy, arachnid identification, Visionary Digital BK lab system
+
 
 
 
