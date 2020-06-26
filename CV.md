@@ -39,37 +39,64 @@
 <p>2018 | Assistant Teacher, 9th Grade Biology, Vermont Commons School</p>
 <p>2016 | Graduate Teaching Assistant, Ecology and Evolution lab, University of Vermont</p>
 <p>2013-2014 | Upward Bound Teacher, Spiders of Vermont course, University of Vermont
-<br>Upward Bound is a federally funded education program focused on providing opportunities to underrepresented high school students. I introduced students to methods in field collecting and identifying bugs and spiders in addition to DNA extractions. We also discussed concepts in biodiversity and phylogenetics.</p> 
+<br><i>Upward Bound is a federally funded education program focused on providing opportunities to underrepresented high school students. I introduced students to methods in field collecting and identifying bugs and spiders in addition to DNA extractions. We also discussed concepts in biodiversity and phylogenetics.</p> 
 
 <h3>Presentations</h3>
 
-<p>2019 | Invited lecture, Field Zoology, University of Vermont
-<br>Global biogeography of the net-casting spiders (Deinopidae)</p>
-<p>2019 | Invited lecture, Vermont Commons School (high school)
-<br>Introduction to biogeography and spiders of the Caribbean</p>
-<p>2019 | Invited lecture, Field Zoology, University of Vermont 
-<br>Distribution, DNA barcoding, and phylogenetics of Caribbean Calliphoridae flies: Tools for forensic studies</p>
+<p>2019 | <strong>Invited lecture</strong>, Field Zoology, University of Vermont
+  <br><i>Global biogeography of the net-casting spiders (Deinopidae)</i></p>
+<p>2019 | <strong>Invited lecture</strong>, Vermont Commons School (high school)
+<br><i>Introduction to biogeography and spiders of the Caribbean</i></p>
+<p>2019 | <strong>Invited lecture</strong>, Field Zoology, University of Vermont 
+<br><i>Distribution, DNA barcoding, and phylogenetics of Caribbean Calliphoridae flies: Tools for forensic studies</i></p>
 <p>2019 | Oral presentation, American Arachnological Society Meeting, Lexington, VA
-<br>Global biogeography and phylogeny of the net-casting spiders (Family: Deinopidae)</p>
+<br><i>Global biogeography and phylogeny of the net-casting spiders (Family: Deinopidae)</i></p>
 <p>2019 | Poster presentation, American Arachnological Society Meeting, Lexington, VA 
-<br>Phylogeography of the widespread Caribbean spiny orb weaver Gasteracantha cancriformis</p>
+<br><i>Phylogeography of the widespread Caribbean spiny orb weaver Gasteracantha cancriformis</i></p>
 <p>2019 | Biolunch, UVM Department of Biology, Burlington, VT
-<br>Global biogeography and phylogeny of the net-casting spiders (Family: Deinopidae)</p>
+<br><i>Global biogeography and phylogeny of the net-casting spiders (Family: Deinopidae)</i></p>
 <p>2019	Oral presentation, 21st International Congress of Arachnology, Canterbury, NZ
-<br>From Gondwana to GAARlandia: Evolutionary history and biogeography  of the ogre-faced spiders (Deinopis)</p>
+<br><i>From Gondwana to GAARlandia: Evolutionary history and biogeography  of the ogre-faced spiders (Deinopis)</i></p>
 <p>2018	Invited lecture, Vermont Commons School (high school)
-<br>Biogeography of the net-casting spiders (Deinopidae)</p>
+<br><i>Biogeography of the net-casting spiders (Deinopidae)</i></p>
 <p>2018 | Oral presentation, UVM Student Research Conference, Burlington, VT
-<br>From Gondwana to GAARlandia: Evolutionary history and biogeography  of the ogre-faced spiders (Deinopis)</p>
+<br><i>From Gondwana to GAARlandia: Evolutionary history and biogeography  of the ogre-faced spiders (Deinopis)</i></p>
 <p>2017 | Biolunch, UVM Department of Biology, Burlington, VT
-<br>Historical   biogeography   and   trait   evolution   within   the   net-casting   spiders
-(Deinopidae)</p>
+<br><i>Historical   biogeography   and   trait   evolution   within   the   net-casting   spiders
+(Deinopidae)</i></p>
 <p>2016 | Biolunch, UVM Department of Biology, Burlington, VT
-<br>Phylogeography of Gasteracantha  and  evidence  for  a  new  North  American species</p>
-<p>2016 | Oral presentation, UVM Student Research Conference, Burlington, VT Phylogeography   and   morphological    variation   in   Caribbean Gasteracantha cancriformis and <br>evidence for a new North American species</p>
+<br><i>Phylogeography of Gasteracantha  and  evidence  for  a  new  North  American species</i></p>
+<p>2016 | Oral presentation, UVM Student Research Conference, Burlington, VT 
+<br><i>Phylogeography   and   morphological    variation   in   Caribbean Gasteracantha cancriformis and evidence for a new North American species</i></p>
 <p>2016 | Poster presentation, 20th International Congress of Arachnology, Golden, CO
-<br>Global biogeography   of  ogre-faced   spider mirrors geologic history</p>
+<br><i>Global biogeography   of  ogre-faced   spider mirrors geologic history</i></p>
 <p>2015 | Biolunch, UVM Department of Biology, Burlington, VT
-<br>Global biogeography   of ogre-faced   spider mirrors geologic history</p>
+<br><i>Global biogeography   of ogre-faced   spider mirrors geologic history</i></p>
+
+<h3>Outreach and mentorship</h3>
+
+2014-2020	Mentor, Agnarsson Lab, University of Vermont, Burlington, VT
+As a lab technician and then a graduate student, I trained graduate, undergraduate, and high school students on identifying and taxonomy of spiders and arachnids as well as molecular   methods, phylogentic/omic and   biogeographic   data analyses, and identifying and photographing  specimens
+2018-2020 	Tess Ruddy**, Vermont Commons School
+A global biogeographic history and phylogenetic revision of the net-casting spiders (Family: Deinopidae)
+2019	Lily Canavan & Baylee Duarte* 
+Dispersal patterns and diversification of the genus Eriophora in the Caribbean through molecular phylogenetics
+	Cooper Peterson & Jack Walinski*
+Exploring the diversity and dispersal history of Caribbean Cyclosa
+2018 	Alli Nemrow*
+Exploring the diversity and dispersal history of Caribbean Cyclosa
+2016-2018 	Patrick Weinmerk*, lab technician
+Exploring the diversity and dispersal history of Caribbean Cyclosa
+2016-2017 	Sarah Kechejian & Annie Howard*
+From Gondwana to GAARlandia: Evolutionary history and biogeography  of the ogre-faced spiders (Deinopis)
+2015 	Austin Dziki*
+Spintharus flavidus in the Caribbean—a 30 million year biogeographical  history and radiation of a 'widespread species'
+Stephanie LeQuier*
+Phylogeography of  a good  Caribbean  disperser:  Argiope  argentata  (Araneae, Araneidae) and a new 'cryptic'species from Cuba
+2014-2015 	Alma Basco** and Amanda Crastz**, from Puerto Rico 
+Phylogeography of the widespread Caribbean spiny orb weaver Gasteracantha cancriformis
+2014-2018 	Volunteer EMT, Essex Rescue, Essex, VT
+I served as a volunteer EMT and then an Advanced EMT for Essex Rescue. Our range covered Essex, Jericho, and Underhill. I treated patients including, but not limited to setting IVs and administered medications. 
+
 
 
