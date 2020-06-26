@@ -93,7 +93,7 @@
 <br><i>Spintharus flavidus in the Caribbean—a 30 million year biogeographical  history and radiation of a 'widespread species'</i>
 <br>Stephanie LeQuier*
 <br><i>Phylogeography of  a good  Caribbean  disperser:  Argiope  argentata  (Araneae, Araneidae) and a new 'cryptic'species from Cuba</i></p>
-<p>2014-2015 | Alma Basco** and Amanda Crastz**, from Puerto Rico 
+<p>2014-2015 | Alma Basco** and Amanda Crastz**, Puerto Rico 
 	<br><i>Phylogeography of the widespread Caribbean spiny orb weaver Gasteracantha cancriformis</i></p>
 <p> 2014-2018 | Volunteer EMT, Essex Rescue, Essex, VT
 <br><i>I served as a volunteer EMT and then an Advanced EMT for Essex Rescue. Our range covered Essex, Jericho, and Underhill. I treated patients including, but not limited to setting IVs and administered medications.</i></p>
