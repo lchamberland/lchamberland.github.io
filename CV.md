@@ -8,7 +8,7 @@
 <p>My research explores the interplay between long-distance dispersal and vicariance in shaping the evolutionary history and biogeography of <i>Deinopis</i>, the net-casting spiders.</p>
 <hr />
 <h3>Publications</h3>
-<p><strong>Chamberland, L.</strong>, McHugh, A.K., Kechejian, S., Binford, G., Bond, J.E., Coddington, J., Dolman, G., Hamilton, C.A., Harvey, M.S., Kuntner, M., Agnarsson, I. (<b>in press</b>) From Gondwana to GAARlandia: Evolutionary history and biogeography of <i>Deinopis</i> the ogre-faced spiders. <i>Journal of Biogeography</i></p>
+<p><strong>Chamberland L</strong>, McHugh AK, Kechejian S, Binford, G, Bond JE, Coddington J., Dolman G, Hamilton CA, Harvey MS, Kuntner M, Agnarsson I. 2018. From Gondwana to GAARlandia: Evolutionary history and biogeography of <i>Deinopis</i> the ogre-faced spiders. <i>Journal of Biogeography</i>. 45(11):2442-2457 DOI: <a href='https://doi.org/10.1111/jbi.13431'>10.1111/jbi.13431</a></p>
 <hr />
 <h3>Education</h3>
 <p>2015 - present <strong>PhD Biology</strong>, University of Vermont, Burlington, VT</p>
