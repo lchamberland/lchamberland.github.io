@@ -125,7 +125,3 @@
 <li>Taxonomy, insect and arachnid identification</li>
 <li>insect and arachnid dissections</li>
 <li>Visionary Digital BK lab system</li>
-</p>
-
-
-
