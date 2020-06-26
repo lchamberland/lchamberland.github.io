@@ -25,7 +25,6 @@ tags: Research
 <p> <i>Gasteracantha</i> is a widespread genus of web-building spiders with incredibly diverse color polymorphisms. Also known as the spiny-backed orb-weavers", these spiders have abdominal spines that are hypothesized to deter predators, primarily birds, while they hang out in the middle of their webs during the day. The goal of my research is to use molecular data to test the hypothesis that there is one species of <i>Gasteracantha</i>, <i>G. cancriformis</i> in the Caribbean. Furthermore, do we see geographic or genetic trends or clustering of these color polymorphisms?
     </p>
 
-<p>
 ![](https://user-images.githubusercontent.com/21958390/85877220-cec8b100-b7a4-11ea-9073-69711796d8dc.jpg)
-Australian collaborator, Matt Elmer, and I collecting deinopids in Queensland (Jan 2020). </p>
+<p>Australian collaborator, Matt Elmer, and I collecting deinopids in Queensland (Jan 2020). </p>
 
