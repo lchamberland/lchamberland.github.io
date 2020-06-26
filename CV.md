@@ -75,28 +75,28 @@
 
 <h3>Outreach and mentorship</h3>
 
-2014-2020	Mentor, Agnarsson Lab, University of Vermont, Burlington, VT
-As a lab technician and then a graduate student, I trained graduate, undergraduate, and high school students on identifying and taxonomy of spiders and arachnids as well as molecular   methods, phylogentic/omic and   biogeographic   data analyses, and identifying and photographing  specimens
-2018-2020 	Tess Ruddy**, Vermont Commons School
-A global biogeographic history and phylogenetic revision of the net-casting spiders (Family: Deinopidae)
-2019	Lily Canavan & Baylee Duarte* 
-Dispersal patterns and diversification of the genus Eriophora in the Caribbean through molecular phylogenetics
-	Cooper Peterson & Jack Walinski*
-Exploring the diversity and dispersal history of Caribbean Cyclosa
-2018 	Alli Nemrow*
-Exploring the diversity and dispersal history of Caribbean Cyclosa
-2016-2018 	Patrick Weinmerk*, lab technician
-Exploring the diversity and dispersal history of Caribbean Cyclosa
-2016-2017 	Sarah Kechejian & Annie Howard*
-From Gondwana to GAARlandia: Evolutionary history and biogeography  of the ogre-faced spiders (Deinopis)
-2015 	Austin Dziki*
-Spintharus flavidus in the Caribbean—a 30 million year biogeographical  history and radiation of a 'widespread species'
-Stephanie LeQuier*
-Phylogeography of  a good  Caribbean  disperser:  Argiope  argentata  (Araneae, Araneidae) and a new 'cryptic'species from Cuba
-2014-2015 	Alma Basco** and Amanda Crastz**, from Puerto Rico 
-Phylogeography of the widespread Caribbean spiny orb weaver Gasteracantha cancriformis
-2014-2018 	Volunteer EMT, Essex Rescue, Essex, VT
-I served as a volunteer EMT and then an Advanced EMT for Essex Rescue. Our range covered Essex, Jericho, and Underhill. I treated patients including, but not limited to setting IVs and administered medications. 
+<p>2014-2020 | Mentor, Agnarsson Lab, University of Vermont, Burlington, VT
+<br><i>As a lab technician and then a graduate student, I trained graduate, undergraduate, and high school students on identifying and taxonomy of spiders and arachnids as well as molecular   methods, phylogentic/omic and   biogeographic   data analyses, and identifying and photographing  specimens</i></p>
+<p>2018-2020 | Tess Ruddy**, Vermont Commons School
+<br><i>A global biogeographic history and phylogenetic revision of the net-casting spiders (Family: Deinopidae)</i></p>
+<p>2019 | Lily Canavan & Baylee Duarte* 
+<br><i>Dispersal patterns and diversification of the genus Eriophora in the Caribbean through molecular phylogenetics</i>
+<br>Cooper Peterson & Jack Walinski*
+	<br><i>Exploring the diversity and dispersal history of Caribbean Cyclosa</i></p>
+<p>2018 | Alli Nemrow*
+	<br><i>Exploring the diversity and dispersal history of Caribbean Cyclosa</i></p>
+<p>2016-2018 	Patrick Weinmerk*, lab technician
+	<br><i>Exploring the diversity and dispersal history of Caribbean Cyclosa</i></p>
+<p>2016-2017 | Sarah Kechejian & Annie Howard*
+<br><i>From Gondwana to GAARlandia: Evolutionary history and biogeography  of the ogre-faced spiders (Deinopis)</i></p>
+<p>2015 | Austin Dziki*
+<br><i>Spintharus flavidus in the Caribbean—a 30 million year biogeographical  history and radiation of a 'widespread species'</i>
+<br>Stephanie LeQuier*
+<br><i>Phylogeography of  a good  Caribbean  disperser:  Argiope  argentata  (Araneae, Araneidae) and a new 'cryptic'species from Cuba</i></p>
+<p>2014-2015 | Alma Basco** and Amanda Crastz**, from Puerto Rico 
+	<br><i>Phylogeography of the widespread Caribbean spiny orb weaver Gasteracantha cancriformis</i></p>
+<p> 2014-2018 | Volunteer EMT, Essex Rescue, Essex, VT
+<br><i>I served as a volunteer EMT and then an Advanced EMT for Essex Rescue. Our range covered Essex, Jericho, and Underhill. I treated patients including, but not limited to setting IVs and administered medications.</i></p>
 
 
 
