@@ -76,7 +76,7 @@
 <p>2015 | Biolunch, UVM Department of Biology, Burlington, VT
 <br><i>Global biogeography   of ogre-faced   spider mirrors geologic history</i></p>
 <hr />
-<h3>Outreach and mentorship</h3>
+<h3>Mentorship and outreach</h3>
 <p>2014-2020 | Mentor, Agnarsson Lab, University of Vermont, Burlington, VT
 <br><i>As a lab technician and then a graduate student, I trained graduate, undergraduate, and high school students on identifying and taxonomy of spiders and arachnids as well as molecular   methods, phylogentic/omic and   biogeographic   data analyses, and identifying and photographing  specimens</i></p>
 <p>2018-2020 | Tess Ruddy**, Vermont Commons School
