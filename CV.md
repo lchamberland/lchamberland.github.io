@@ -116,15 +116,18 @@
 <li>Microsoft Office – Data preparation, organization, and word processing</li>
 </ul>
 </p>
-
-• 	
-• 	
-Laboratory
-
-• 	DNA extraction   for  standard  Sanger  sequencing  and  Next  Generation  sequencing
-(Anchored Hybrid Enrichment), PCR, gel electrophoresis
-• 	Taxonomy, arachnid identification, Visionary Digital BK lab system
-
-
+<p>Laboratory
+<ul>
+<li>DNA extractions for standard Sanger sequencing and Next Generation sequencing</li>
+<li>PCR and gel electrophoresis</li>
+<li>RNA extraction/li>
+<li>Taxonomy, insect and arachnid identification</li>
+<li>insect and arachnid dissections</li>
+<li>Visionary Digital BK lab system</li>
+<li>HTML – Website development</li>
+<li>Microsoft Office – Data preparation, organization, and word processing</li>
+</ul>
+</p>
+<hr />
 
 
