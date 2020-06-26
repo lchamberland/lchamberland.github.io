@@ -8,7 +8,6 @@
 <p>My research explores the interplay between long-distance dispersal and vicariance in shaping the evolutionary history and biogeography of <i>Deinopis</i>, the net-casting spiders.</p>
 <hr />
 <h3>Education</h3>
-
 <p>2015-2020(expected) PhD Biology, University of Vermont, Burlington, VT 
 <br>Advisor: Dr. Ingi Agnarsson
 <br>Title: From Gondwana to GAARlandia: Evolutionary history and biogeography of the net-casting spider (Deinopidae)</p>
@@ -31,21 +30,46 @@
 <p>2015 - 2020         <strong>Dissertation Research</strong>,  <a href='http://www.theridiidae.com'>Agnarsson Lab</a>, University of Vermont	</p>
 <p>2013-2015				<strong>Laboratory Research Techician</strong>,<a href='http://www.theridiidae.com'>Agnarsson Lab</a>, University of Vermont</p>
 <hr />
-<h3>Teaching, Outreach Experience</h3>
-<p>2014-2020		<strong>Mentor</strong>, Agnarsson lab; University of Vermont</p>
-<ul>
-  <li>Tess Ruddy, high school student; Vermont Commons School</li>
-  <li>Sarah Kechejian and Annie Howard worked on biogeographical and phylogenetic analysis of <i>Deinopis</i></li>
-  <li>Austin Dziki and Stephanie LeQuier, trained on molecular methods and identifying and photographing specimens </li>
-  <li>Alma Basco  and Amanda Crastz, high school researchers from Puerto Rico, worked on revising <i>Gasteracantha</i></li>
-</ul>
 
-<p>2018			<strong>Student Teacher</strong>, Biology, Vermont Commons School</p>
-<p>2015-2019			<strong>Graduate Teaching Assistant</strong>, Introduction to General Biology 002</p>
-<p>2016					<strong>Graduate Teaching Assistant</strong>, Ecology and Evolution</p>
-<p>2015-2018 					<strong>Graduate Teaching Assistant</strong>, Field Zoology</p>
-<p>2013-2016				<strong>Mentor</strong>, Exchange program for high school students from Puerto Rico</p>
-<p>2013 - 2014				<strong>Upward Bound Teacher</strong>, Spiders of Vermont course</p>
-<hr />
+<h3>Teaching</h3>
+<p>2016-2019	Guest Lecturer, Field Zoology, University of Vermont</p>
+<p>2015-2019 	Graduate Teaching Assistant, Field Zoology lab, University of Vermont</p>
+<p>2015-2020 	Graduate Teaching Assistant, Intro to Biology lab, University of Vermont</p>
+<p>2018 	Lecturer, Field Zoology</p>
+<p>2018 	Assistant Teacher, 9th Grade Biology, Vermont Commons School</p>
+<p>2016 	Graduate Teaching Assistant, Ecology and Evolution lab, University of Vermont</p>
+<p>2013-2014 	Upward Bound Teacher, Spiders of Vermont course, University of Vermont
+<br>Upward Bound is a federally funded education program focused on providing opportunities to underrepresented high school students. I introduced students to methods in field collecting and identifying bugs and spiders in addition to DNA extractions. We also discussed concepts in biodiversity and phylogenetics.</p> 
+
+<h3>Presentations</h3>
+
+<p>2019 	Invited lecture, Field Zoology, University of Vermont
+Global biogeography of the net-casting spiders (Deinopidae)</p>
+<p>2019 	Invited lecture, Vermont Commons School (high school)
+Introduction to biogeography and spiders of the Caribbean</p>
+<p>2019 	Invited lecture, Field Zoology, University of Vermont 
+Distribution, DNA barcoding, and phylogenetics of Caribbean Calliphoridae flies: Tools for forensic studies</p>
+<p>2019 	Oral presentation, American Arachnological Society Meeting, Lexington, VA
+Global biogeography and phylogeny of the net-casting spiders (Family: Deinopidae)</p>
+<p>2019 	Poster presentation, American Arachnological Society Meeting, Lexington, VA 
+Phylogeography of the widespread Caribbean spiny orb weaver Gasteracantha cancriformis</p>
+<p>2019 	Biolunch, UVM Department of Biology, Burlington, VT
+Global biogeography and phylogeny of the net-casting spiders (Family: Deinopidae)</p>
+<p>2019	Oral presentation, 21st International Congress of Arachnology, Canterbury, NZ
+From Gondwana to GAARlandia: Evolutionary history and biogeography  of the ogre-faced spiders (Deinopis)</p>
+<p>2018	Invited lecture, Vermont Commons School (high school)
+Biogeography of the net-casting spiders (Deinopidae)</p>
+<p>2018 	Oral presentation, UVM Student Research Conference, Burlington, VT
+From Gondwana to GAARlandia: Evolutionary history and biogeography  of the ogre-faced spiders (Deinopis)</p>
+<p>2017 	Biolunch, UVM Department of Biology, Burlington, VT
+Historical   biogeography   and   trait   evolution   within   the   net-casting   spiders
+(Deinopidae)</p>
+<p>2016 	Biolunch, UVM Department of Biology, Burlington, VT
+Phylogeography of Gasteracantha  and  evidence  for  a  new  North  American species</p>
+<p>2016 	Oral presentation, UVM Student Research Conference, Burlington, VT Phylogeography   and   morphological    variation   in   Caribbean Gasteracantha cancriformis and evidence for a new North American species</p>
+<p>2016 	Poster presentation, 20th International Congress of Arachnology, Golden, CO
+Global biogeography   of  ogre-faced   spider mirrors geologic history</p>
+<p>2015 	Biolunch, UVM Department of Biology, Burlington, VT
+Global biogeography   of ogre-faced   spider mirrors geologic history</p>
 
 
