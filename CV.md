@@ -1,4 +1,4 @@
-<p><a href='https://github.com/lchamberland/lchamberland.github.io/raw/master/Chamberland_CV_2020_github.pdf'>download full CV pdf</a>
+<p style="text-align:right"><a href='https://github.com/lchamberland/lchamberland.github.io/raw/master/Chamberland_CV_2020_github.pdf'>full CV</a>
 <h1 style="text-align:center">Lisa Chamberland</h1>
 <p style="text-align:center"><strong>Address</strong> 120A Marsh Life Science Building 
 <br>University of Vermont
