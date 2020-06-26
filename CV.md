@@ -123,7 +123,9 @@
 <ul>
 <li>DNA extractions for standard Sanger sequencing and Next Generation sequencing</li>
 <li>PCR and gel electrophoresis</li>
-<li>RNA extraction/li>
+<li>RNA extraction</li>
 <li>Taxonomy, insect and arachnid identification</li>
 <li>insect and arachnid dissections</li>
 <li>Visionary Digital BK lab system</li>
+</ul>
+</p>
