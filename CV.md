@@ -98,5 +98,9 @@
 <p> 2014-2018 | Volunteer EMT, Essex Rescue, Essex, VT
 <br><i>I served as a volunteer EMT and then an Advanced EMT for Essex Rescue. Our range covered Essex, Jericho, and Underhill. I treated patients including, but not limited to setting IVs and administered medications.</i></p>
 
+<p><i>*undergraduate students</i></p>
+<p><i>**high school students</i></p>
+
+
 
 
