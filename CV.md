@@ -8,8 +8,12 @@
 <p>My research explores the interplay between long-distance dispersal and vicariance in shaping the evolutionary history and biogeography of <i>Deinopis</i>, the net-casting spiders.</p>
 <hr />
 <h3>Education</h3>
-<p>2015 - present <strong>PhD Biology</strong>, University of Vermont, Burlington, VT</p>
-<p>2009 - 2013 <strong>BA Biology and Anthropology</strong>, University of Vermont, Burlington, VT`</p>
+
+<p>2015-2020(expected)
+  PhD Biology, University of Vermont, Burlington, VT</p>
+  Advisor: Dr. Ingi Agnarsson
+  Title: From Gondwana to GAARlandia: Evolutionary history and biogeography of the net-casting spider (Deinopidae)</p>
+<p>2009-2013 	BA Biology and Anthropology, University of Vermont, Burlington, VT`</p>
 <hr />
 <h3>Publications</h3>
 <p><strong>Chamberland L</strong>, McHugh AK, Kechejian S, Binford, G, Bond JE, Coddington J, Dolman G, Hamilton CA, Harvey MS, Kuntner M, Agnarsson I. 2018. From Gondwana to GAARlandia: Evolutionary history and biogeography of <i>Deinopis</i> the ogre-faced spiders. <i>Journal of Biogeography</i>. 45(11):2442-2457 DOI: <a href='https://doi.org/10.1111/jbi.13431'>10.1111/jbi.13431</a></p>
