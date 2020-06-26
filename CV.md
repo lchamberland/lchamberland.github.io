@@ -8,10 +8,10 @@
 <p>My research explores the interplay between long-distance dispersal and vicariance in shaping the evolutionary history and biogeography of <i>Deinopis</i>, the net-casting spiders.</p>
 <hr />
 <h3>Education</h3>
-<p>2015-2020(expected) PhD Biology, University of Vermont, Burlington, VT 
+<p>2015-2020(expected) | PhD Biology, University of Vermont, Burlington, VT 
 <br>Advisor: Dr. Ingi Agnarsson
 <br>Title: From Gondwana to GAARlandia: Evolutionary history and biogeography of the net-casting spider (Deinopidae)</p>
-<p>2009-2013 	BA Biology and Anthropology, University of Vermont, Burlington, VT`</p>
+<p>2009-2013 | BA Biology and Anthropology, University of Vermont, Burlington, VT`</p>
 <hr />
 <h3>Publications</h3>
 <p><strong>Chamberland L</strong>, McHugh AK, Kechejian S, Binford, G, Bond JE, Coddington J, Dolman G, Hamilton CA, Harvey MS, Kuntner M, Agnarsson I. 2018. From Gondwana to GAARlandia: Evolutionary history and biogeography of <i>Deinopis</i> the ogre-faced spiders. <i>Journal of Biogeography</i>. 45(11):2442-2457 DOI: <a href='https://doi.org/10.1111/jbi.13431'>10.1111/jbi.13431</a></p>
@@ -19,57 +19,57 @@
 <hr />
 <h3>Awards and Grants</h3>
 <p>2019/2020 | Graduate Teaching Assistant of the Year in the Department of Biology at the University of Vermont</p>
-<p>2020					American Arachnological Society Vincent Roth Fund for Systematics Research - $250</p>
-<p>2019					The John Wheeler Graduate Student Research and Development Award - $2000</p>
-<p>2019					UVM Mini Travel Grant - $450</p>
-<p>2018					American Arachnological Society Vincent Roth Fund for Systematics Research - $1000</p>
-<p>2016					Sigma Xi Grant in Research Award - $1000</p>
-<p>2016					UVM Mini Travel Grant - $450</p>
+<p>2020 | American Arachnological Society Vincent Roth Fund for Systematics Research - $250</p>
+<p>2019 | The John Wheeler Graduate Student Research and Development Award - $2000</p>
+<p>2019 | UVM Mini Travel Grant - $450</p>
+<p>2018 | American Arachnological Society Vincent Roth Fund for Systematics Research - $1000</p>
+<p>2016 | Sigma Xi Grant in Research Award - $1000</p>
+<p>2016 | UVM Mini Travel Grant - $450</p>
 <hr />
 <h3>Research Experience</h3>
-<p>2015 - 2020         <strong>Dissertation Research</strong>,  <a href='http://www.theridiidae.com'>Agnarsson Lab</a>, University of Vermont	</p>
-<p>2013-2015				<strong>Laboratory Research Techician</strong>,<a href='http://www.theridiidae.com'>Agnarsson Lab</a>, University of Vermont</p>
+<p>2015-2020 | <strong>Dissertation Research</strong>,  <a href='http://www.theridiidae.com'>Agnarsson Lab</a>, University of Vermont	</p>
+<p>2013-2015 | <strong>Laboratory Research Techician</strong>,<a href='http://www.theridiidae.com'>Agnarsson Lab</a>, University of Vermont</p>
 <hr />
 
 <h3>Teaching</h3>
-<p>2016-2019	Guest Lecturer, Field Zoology, University of Vermont</p>
-<p>2015-2019 	Graduate Teaching Assistant, Field Zoology lab, University of Vermont</p>
-<p>2015-2020 	Graduate Teaching Assistant, Intro to Biology lab, University of Vermont</p>
-<p>2018 	Lecturer, Field Zoology</p>
-<p>2018 	Assistant Teacher, 9th Grade Biology, Vermont Commons School</p>
-<p>2016 	Graduate Teaching Assistant, Ecology and Evolution lab, University of Vermont</p>
-<p>2013-2014 	Upward Bound Teacher, Spiders of Vermont course, University of Vermont
+<p>2016-2019 | Guest Lecturer, Field Zoology, University of Vermont</p>
+<p>2015-2019 | Graduate Teaching Assistant, Field Zoology lab, University of Vermont</p>
+<p>2015-2020 | Graduate Teaching Assistant, Intro to Biology lab, University of Vermont</p>
+<p>2018 | Lecturer, Field Zoology</p>
+<p>2018 | Assistant Teacher, 9th Grade Biology, Vermont Commons School</p>
+<p>2016 | Graduate Teaching Assistant, Ecology and Evolution lab, University of Vermont</p>
+<p>2013-2014 | Upward Bound Teacher, Spiders of Vermont course, University of Vermont
 <br>Upward Bound is a federally funded education program focused on providing opportunities to underrepresented high school students. I introduced students to methods in field collecting and identifying bugs and spiders in addition to DNA extractions. We also discussed concepts in biodiversity and phylogenetics.</p> 
 
 <h3>Presentations</h3>
 
-<p>2019 	Invited lecture, Field Zoology, University of Vermont
-Global biogeography of the net-casting spiders (Deinopidae)</p>
-<p>2019 	Invited lecture, Vermont Commons School (high school)
-Introduction to biogeography and spiders of the Caribbean</p>
-<p>2019 	Invited lecture, Field Zoology, University of Vermont 
-Distribution, DNA barcoding, and phylogenetics of Caribbean Calliphoridae flies: Tools for forensic studies</p>
-<p>2019 	Oral presentation, American Arachnological Society Meeting, Lexington, VA
-Global biogeography and phylogeny of the net-casting spiders (Family: Deinopidae)</p>
-<p>2019 	Poster presentation, American Arachnological Society Meeting, Lexington, VA 
-Phylogeography of the widespread Caribbean spiny orb weaver Gasteracantha cancriformis</p>
-<p>2019 	Biolunch, UVM Department of Biology, Burlington, VT
-Global biogeography and phylogeny of the net-casting spiders (Family: Deinopidae)</p>
+<p>2019 | Invited lecture, Field Zoology, University of Vermont
+<br>Global biogeography of the net-casting spiders (Deinopidae)</p>
+<p>2019 | Invited lecture, Vermont Commons School (high school)
+<br>Introduction to biogeography and spiders of the Caribbean</p>
+<p>2019 | Invited lecture, Field Zoology, University of Vermont 
+<br>Distribution, DNA barcoding, and phylogenetics of Caribbean Calliphoridae flies: Tools for forensic studies</p>
+<p>2019 | Oral presentation, American Arachnological Society Meeting, Lexington, VA
+<br>Global biogeography and phylogeny of the net-casting spiders (Family: Deinopidae)</p>
+<p>2019 | Poster presentation, American Arachnological Society Meeting, Lexington, VA 
+<br>Phylogeography of the widespread Caribbean spiny orb weaver Gasteracantha cancriformis</p>
+<p>2019 | Biolunch, UVM Department of Biology, Burlington, VT
+<br>Global biogeography and phylogeny of the net-casting spiders (Family: Deinopidae)</p>
 <p>2019	Oral presentation, 21st International Congress of Arachnology, Canterbury, NZ
-From Gondwana to GAARlandia: Evolutionary history and biogeography  of the ogre-faced spiders (Deinopis)</p>
+<br>From Gondwana to GAARlandia: Evolutionary history and biogeography  of the ogre-faced spiders (Deinopis)</p>
 <p>2018	Invited lecture, Vermont Commons School (high school)
-Biogeography of the net-casting spiders (Deinopidae)</p>
-<p>2018 	Oral presentation, UVM Student Research Conference, Burlington, VT
-From Gondwana to GAARlandia: Evolutionary history and biogeography  of the ogre-faced spiders (Deinopis)</p>
-<p>2017 	Biolunch, UVM Department of Biology, Burlington, VT
-Historical   biogeography   and   trait   evolution   within   the   net-casting   spiders
+<br>Biogeography of the net-casting spiders (Deinopidae)</p>
+<p>2018 | Oral presentation, UVM Student Research Conference, Burlington, VT
+<br>From Gondwana to GAARlandia: Evolutionary history and biogeography  of the ogre-faced spiders (Deinopis)</p>
+<p>2017 | Biolunch, UVM Department of Biology, Burlington, VT
+<br>Historical   biogeography   and   trait   evolution   within   the   net-casting   spiders
 (Deinopidae)</p>
-<p>2016 	Biolunch, UVM Department of Biology, Burlington, VT
-Phylogeography of Gasteracantha  and  evidence  for  a  new  North  American species</p>
-<p>2016 	Oral presentation, UVM Student Research Conference, Burlington, VT Phylogeography   and   morphological    variation   in   Caribbean Gasteracantha cancriformis and evidence for a new North American species</p>
-<p>2016 	Poster presentation, 20th International Congress of Arachnology, Golden, CO
-Global biogeography   of  ogre-faced   spider mirrors geologic history</p>
-<p>2015 	Biolunch, UVM Department of Biology, Burlington, VT
-Global biogeography   of ogre-faced   spider mirrors geologic history</p>
+<p>2016 | Biolunch, UVM Department of Biology, Burlington, VT
+<br>Phylogeography of Gasteracantha  and  evidence  for  a  new  North  American species</p>
+<p>2016 | Oral presentation, UVM Student Research Conference, Burlington, VT Phylogeography   and   morphological    variation   in   Caribbean Gasteracantha cancriformis and <br>evidence for a new North American species</p>
+<p>2016 | Poster presentation, 20th International Congress of Arachnology, Golden, CO
+<br>Global biogeography   of  ogre-faced   spider mirrors geologic history</p>
+<p>2015 | Biolunch, UVM Department of Biology, Burlington, VT
+<br>Global biogeography   of ogre-faced   spider mirrors geologic history</p>
 
 
