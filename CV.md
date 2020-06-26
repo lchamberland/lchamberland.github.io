@@ -24,11 +24,10 @@
 <hr />
 <h3>Research Experience</h3>
 <p>2015 - 2020         <strong>Dissertation Research</strong>,  <a href='http://www.theridiidae.com'>Agnarsson Lab</a>, University of Vermont	</p>
-<p>2016					Poster presentation, 20th International Congress of Arachnology, Golden, CO</p>
 <p>2013-2015				<strong>Laboratory Research Techician</strong>,<a href='http://www.theridiidae.com'>Agnarsson Lab</a>, University of Vermont</p>
 <hr />
 <h3>Teaching, Outreach Experience</h3>
-<p>2014-2019		<strong>Mentor</strong>, Agnarsson lab; University of Vermont</p>
+<p>2014-2020		<strong>Mentor</strong>, Agnarsson lab; University of Vermont</p>
 <ul>
   <li>Tess Ruddy, high school student; Vermont Commons School</li>
   <li>Sarah Kechejian and Annie Howard worked on biogeographical and phylogenetic analysis of <i>Deinopis</i></li>
