@@ -109,7 +109,7 @@
 <p>Computing
 <ul>
 <li>Phylogenetics - Bayesian (MrBayes, BEAST), Maximum likelihood (RAxML), phytools</li>
-<li>Biogeography - BioGeoBEARS, RASP, LaGrange</li>
+<li>Biogeography - model testing in BioGeoBEARS, RASP, LaGrange</li>
 <li>Sequence analysis - Mesquite</li>
 <li>R and (R)Markdown – Data analysis/visualization and word processing</li>
 <li>HTML – Website development</li>
