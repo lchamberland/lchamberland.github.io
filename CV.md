@@ -108,9 +108,10 @@
 <h3>Skills</h3>
 <p>Computing
 <ul>
-<li>Phylogenetics - Bayesian (MrBayes, BEAST), Maximum likelihood (RAxML), phytools</li>
+<li>Phylogenetics - Bayesian (MrBayes, BEAST), Maximum likelihood (IQ-Tree, RAxML), ASTRAL, phytools</li>
 <li>Biogeography - model testing in BioGeoBEARS, RASP, LaGrange</li>
-<li>Sequence analysis - Mesquite</li>
+<li>Population genetics - Arlequin, DnaSP, Mega</li>
+<li>Sequence reading, editing, cleanup - Mesquite, Phred and Phrap</li>
 <li>R and (R)Markdown – Data analysis/visualization and word processing</li>
 <li>HTML – Website development</li>
 <li>Microsoft Office – Data preparation, organization, and word processing</li>
