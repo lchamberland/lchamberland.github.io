@@ -7,14 +7,14 @@ tags: Research
 <header>
     <h2><i>Deinopidae (the net-casting/ogre-faced spiders)</i></h2>
       </header>   
+![](https://user-images.githubusercontent.com/21958390/85932365-922ab180-b899-11ea-8075-2136bcf64faa.JPG)
+<p><i>Deinopis at the edge of a lawn in NSW, Australia (Feb 2020)</i></p>
 
 ![](https://user-images.githubusercontent.com/21958390/44419031-0aaae380-a548-11e8-85b1-6df2373e670a.jpg)
 
-<p> Appropriately named the ogre-faced spiders, <i>Deinopis</i> are genus within the family Deinopidae that have a pair of enlarged posterior median eyes (PME) used for hunting at <a href="http://www.dailymail.co.uk/sciencetech/article-3595122/The-spider-NIGHTVISION-goggles-Arachnid-uses-enlarged-eyes-help-hunt-prey-ground-night.html">night</a>. These eyes are incredibly light sensitive letting in 2000 times more light than the average human eye! Our <a href= https://doi.org/10.1111/jbi.13431>molecular phylogentic study of deinopids</a> revealed that, remarkably, <i>Deinopis</i> is not monophyletic, and its sister genus,<i>Menneus</i>, which has typically sized PMEs, is nested within. I am currently working on a global phylogenetic revision and biogeography of this family.  </p>
+<p> Appropriately named the ogre-faced spiders, <i>Deinopis</i> are genus within the family Deinopidae that have a pair of enlarged posterior median eyes (PME) used for hunting at <a href="http://www.dailymail.co.uk/sciencetech/article-3595122/The-spider-NIGHTVISION-goggles-Arachnid-uses-enlarged-eyes-help-hunt-prey-ground-night.html">night</a>. These eyes are incredibly light sensitive letting in 2000 times more light than the average human eye! I am currently studying the evolution and biogeography of these fantastic spiders. </p>
 
-<p> If you are interested in collaborating <i>Deinopis</i> please <a href="mailto:chamberlandlisa8@gmail.com">contact me</a>! </p>
 ---
-
 
   <header>
     <h2><i>Gasteracantha</i></h2>
@@ -31,5 +31,5 @@ tags: Research
 <p><i>G. cancriformis</i> collected from the Caribbean islands in our most recent phylogeographyic study of these spiders <a href=https://peerj.com/articles/8976/> in PeerJ</a>.</p>
 
 ![](https://user-images.githubusercontent.com/21958390/85877220-cec8b100-b7a4-11ea-9073-69711796d8dc.jpg)
-<p>Field assistant Matt Elmer and I collecting deinopids in QLD, Australia (Jan 2020). </p>
+<p><i>Arachnid enthusiast, Matt Elmer, and I collecting deinopids in QLD, Australia (Jan 2020).</i></p>
 
