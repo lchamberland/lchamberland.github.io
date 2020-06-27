@@ -26,7 +26,8 @@ tags: Research
 <p> <i>Gasteracantha</i> is a widespread genus of web-building spiders with remarkable color polgymorphisms and variation in spine number, which have puzzed taxonomists. We found evidence for a single species in the Caribbean, <i>G. cancriformis</i>, with recently divergent lineages in the North, Central, and South America. 
     </p>
 ![](https://user-images.githubusercontent.com/21958390/85926390-35190680-b86d-11ea-94cf-8a307f20bd0d.jpg)
-<i>G. cancriformis</i> collected from the Caribbean islands in our most recent phylogeographyic study of these spiders in <a href=https://peerj.com/articles/8976/>article in PeerJ</a>.
+
+<p><i>G. cancriformis</i> collected from the Caribbean islands in our most recent phylogeographyic study of these spiders in <a href=https://peerj.com/articles/8976/>article in PeerJ</a>.</p>
 
 ![](https://user-images.githubusercontent.com/21958390/85877220-cec8b100-b7a4-11ea-9073-69711796d8dc.jpg)
 <p>Field assistant Matt Elmer and I collecting deinopids in QLD, Australia (Jan 2020). </p>
