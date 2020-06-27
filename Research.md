@@ -33,5 +33,5 @@ tags: Research
 <p><i>G. cancriformis</i> collected from the Caribbean islands in our most recent phylogeographyic study of these spiders <a href=https://peerj.com/articles/8976/> in PeerJ</a>.</p>
 
 ![](https://user-images.githubusercontent.com/21958390/85877220-cec8b100-b7a4-11ea-9073-69711796d8dc.jpg)
-<p><i>Arachnid enthusiast, Matt Elmer, and I collecting deinopids in QLD, Australia (Jan 2020).</i></p>
+<p><i>Arachnid enthusiast, Matt Elmer (left), and I collecting deinopids in QLD, Australia (Jan 2020).</i></p>
 
