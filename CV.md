@@ -41,8 +41,6 @@
 <p>2018 | Lecturer, Field Zoology</p>
 <p>2018 | Assistant Teacher, 9th Grade Biology, Vermont Commons School</p>
 <p>2016 | Graduate Teaching Assistant, Ecology and Evolution lab, University of Vermont</p>
-<p>2013-2014 | Upward Bound Teacher, Spiders of Vermont course, University of Vermont
-<br><i>Upward Bound is a federally funded education program focused on providing opportunities to underrepresented high school students. I introduced students to methods in field collecting and identifying bugs and spiders in addition to DNA extractions. We also discussed concepts in biodiversity and phylogenetics.</i></p> 
 <hr />
 <h3>Presentations</h3>
 <p>2020 | Biolunch, UVM Department of Biology, Burlington, VT
@@ -104,8 +102,8 @@
 <br><i>Phylogeography of  a good  Caribbean  disperser:  Argiope  argentata  (Araneae, Araneidae) and a new 'cryptic'species from Cuba</i></p>
 <p>2014-2015 | Alma Basco** and Amanda Crastz**, Puerto Rico 
 	<br><i>Phylogeography of the widespread Caribbean spiny orb weaver Gasteracantha cancriformis</i></p>
-<p> 2014-2018 | Volunteer EMT, Essex Rescue, Essex, VT
-<br><i>I served as a volunteer EMT and then an Advanced EMT for Essex Rescue. Our range covered Essex, Jericho, and Underhill. I treated patients including, but not limited to setting IVs and administered medications.</i></p>
+<p>2013-2014 | Upward Bound Teacher, Spiders of Vermont course, University of Vermont
+<br><i>Upward Bound is a federally funded education program focused on providing opportunities to underrepresented high school students. I introduced students to methods in field collecting and identifying bugs and spiders in addition to DNA extractions. We also discussed concepts in biodiversity and phylogenetics.</i></p> 
 
 <p><i>*undergraduate students</i>
 <br><i>**high school students</i></p>
