@@ -6,8 +6,10 @@ tags: Research
  
 <header>
     <h2><i>Deinopidae (the net-casting/ogre-faced spiders)</i></h2>
-      </header>   
+      </header>  
+      
 ![](https://user-images.githubusercontent.com/21958390/85932365-922ab180-b899-11ea-8075-2136bcf64faa.JPG)
+
 <p><i>Deinopis at the edge of a lawn in NSW, Australia (Feb 2020)</i></p>
 
 ![](https://user-images.githubusercontent.com/21958390/44419031-0aaae380-a548-11e8-85b1-6df2373e670a.jpg)
