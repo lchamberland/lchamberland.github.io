@@ -10,14 +10,14 @@ tags: Research
       
 ![](https://user-images.githubusercontent.com/21958390/85932365-922ab180-b899-11ea-8075-2136bcf64faa.JPG)
 
-<p><i>Deinopis at the edge of a lawn in NSW, Australia (Feb 2020)</i></p>
+<p><i>Deinopis</i> at the edge of a garden in NSW, Australia (Feb 2020)</p>
 
 ![](https://user-images.githubusercontent.com/21958390/44419031-0aaae380-a548-11e8-85b1-6df2373e670a.jpg)
 
 <p> Appropriately named the ogre-faced spiders, <i>Deinopis</i> are genus within the family Deinopidae that have a pair of enlarged posterior median eyes (PME) used for hunting at <a href="http://www.dailymail.co.uk/sciencetech/article-3595122/The-spider-NIGHTVISION-goggles-Arachnid-uses-enlarged-eyes-help-hunt-prey-ground-night.html">night</a>. These eyes are incredibly light sensitive letting in 2000 times more light than the average human eye! I am currently studying the evolution and biogeography of these fantastic spiders. </p>
 
 ![](https://user-images.githubusercontent.com/21958390/85932609-73c5b580-b89b-11ea-8331-75cf36573070.png)
-<p><i>Deinopis pedipalp (male secondary sexual organ) from a specimen collected in Colombia (2015).</i></p>
+<p><i>Deinopis</i> pedipalp (male secondary sexual organ) from a specimen collected in Colombia (2015).</p>
 
 ---
 
@@ -36,5 +36,5 @@ tags: Research
 <p><i>G. cancriformis</i> collected from the Caribbean islands in our most recent phylogeographyic study of these spiders <a href=https://peerj.com/articles/8976/> in PeerJ</a>.</p>
 
 ![](https://user-images.githubusercontent.com/21958390/85932719-842a6000-b89c-11ea-835a-ced9b49a09e6.jpg)
-<p><i>Arachnid enthusiast, Matt Elmer (left), and I collecting deinopids in QLD, Australia (Jan 2020).</i></p>
+<p>Arachnid enthusiast, Matt Elmer (left), and I collecting deinopids in QLD, Australia (Jan 2020).</p>
 
