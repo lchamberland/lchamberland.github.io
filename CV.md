@@ -75,7 +75,7 @@
 <p>2015 | Biolunch, UVM Department of Biology, Burlington, VT
 <br><i>Global biogeography   of ogre-faced   spider mirrors geologic history</i></p>
 <hr />
-<h3>Mentorship and outreach</h3>
+<h3>Outreach and mentoring</h3>
 <p>2018-2019 | Vermont Commmons School vsit to arachnid lab
 <br><i>Intro to biogeography and spiders of the Caribbean for 10th graders</i></p>
 <p>2018-2019 | Zadock Thompson Museum Invertebrate Collection Open House 
