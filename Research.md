@@ -17,7 +17,8 @@ tags: Research
 <p> Appropriately named the ogre-faced spiders, <i>Deinopis</i> are genus within the family Deinopidae that have a pair of enlarged posterior median eyes (PME) used for hunting at <a href="http://www.dailymail.co.uk/sciencetech/article-3595122/The-spider-NIGHTVISION-goggles-Arachnid-uses-enlarged-eyes-help-hunt-prey-ground-night.html">night</a>. These eyes are incredibly light sensitive letting in 2000 times more light than the average human eye! I am currently studying the evolution and biogeography of these fantastic spiders. </p>
 
 ![](https://user-images.githubusercontent.com/21958390/85932609-73c5b580-b89b-11ea-8331-75cf36573070.png)
-<br><i>Deinopis pedipalp (male secondary sexual organ) from a specimen collected in Colombia (2015).</i>
+<p><i>Deinopis pedipalp (male secondary sexual organ) from a specimen collected in Colombia (2015).</i></p>
+
 ---
 
   <header>
