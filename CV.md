@@ -61,7 +61,7 @@
 <br><i>Global biogeography and phylogeny of the net-casting spiders (Family: Deinopidae)</i></p>
 <p>2019	Oral presentation, 21st International Congress of Arachnology, Canterbury, NZ
 <br><i>From Gondwana to GAARlandia: Evolutionary history and biogeography  of the ogre-faced spiders (Deinopis)</i></p>
-<p>2018	Invited lecture, Vermont Commons School (high school)
+<p>2018	<strong>Invited lecture</strong>, Vermont Commons School (high school)
 <br><i>Biogeography of the net-casting spiders (Deinopidae)</i></p>
 <p>2018 | Oral presentation, UVM Student Research Conference, Burlington, VT
 <br><i>From Gondwana to GAARlandia: Evolutionary history and biogeography  of the ogre-faced spiders (Deinopis)</i></p>
@@ -78,6 +78,12 @@
 <br><i>Global biogeography   of ogre-faced   spider mirrors geologic history</i></p>
 <hr />
 <h3>Mentorship and outreach</h3>
+<p>2018-2019 | Vermont Commmons School vsit to arachnid lab
+<br><i>Intro to biogeography and spiders of the Caribbean for 10th graders</i></p>
+<p>2018-2019 | Zadock Thompson Museum Invertebrate Collection Open House 
+<br><i>Hosted an open house for UVM students and the Vermont community to come and visit the collection of arachnids and insects at the zoological collections on campus</i></p>
+<p>2019 | "Living Vermont" field taxonomy museum visit
+<br><i>Hosted a visit to the Zadock Thompson Museum Invertebrate Collection for 7th graders (16 students)</i> </p>
 <p>2014-2020 | Mentor, Agnarsson Lab, University of Vermont, Burlington, VT
 <br><i>As a lab technician and then a graduate student, I trained graduate, undergraduate, and high school students on identifying and taxonomy of spiders and arachnids as well as molecular   methods, phylogentic/omic and   biogeographic   data analyses, and identifying and photographing  specimens</i></p>
 <p>2018-2020 | Tess Ruddy**, Vermont Commons School
