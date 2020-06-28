@@ -10,7 +10,7 @@ tags: Research
       
 ![](https://user-images.githubusercontent.com/21958390/85932365-922ab180-b899-11ea-8075-2136bcf64faa.JPG)
 
-<p><i>Deinopis</i> at the edge of a garden in NSW, Australia (Feb 2020)</p>
+<p><i>Deinopis</i> at the edge of a garden in NSW, Australia (Feb 2019)</p>
 
 ![](https://user-images.githubusercontent.com/21958390/44419031-0aaae380-a548-11e8-85b1-6df2373e670a.jpg)
 
@@ -36,5 +36,5 @@ tags: Research
 <p><i>G. cancriformis</i> collected from the Caribbean islands in our most recent phylogeographyic study of these spiders <a href="https://peerj.com/articles/8976/">in PeerJ.</a></p>
 
 ![](https://user-images.githubusercontent.com/21958390/85932719-842a6000-b89c-11ea-835a-ced9b49a09e6.jpg)
-<p>Arachnid enthusiast, Matt Elmer (left), and I collecting deinopids in QLD, Australia (Jan 2020).</p>
+<p>Arachnid enthusiast, Matt Elmer (left), and I collecting deinopids in QLD, Australia (Jan 2019).</p>
 
