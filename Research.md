@@ -28,7 +28,7 @@ tags: Research
 ![](https://cloud.githubusercontent.com/assets/21958390/22332417/d1d81346-e39e-11e6-8586-9d740dd0435e.jpg) 
 ![](https://user-images.githubusercontent.com/21958390/85951027-69a0c700-b92e-11ea-8f8b-c3dcae132d1f.jpg)
 
-<p> <i>Gasteracantha</i> is a widespread genus of web-building spiders with striking color polgymorphisms and variation in spine number, which have puzzed taxonomists. We found evidence for a single species in the Caribbean, <i>G. cancriformis</i>, with recently divergent lineages in the North, Central, and South America. 
+<p> <i>Gasteracantha</i> is a widespread genus of web-building spiders with striking color polgymorphisms and variation in spine number, which have led taxonomists to debate the number of species in the New World. Using molecular methods we found evidence for a single species in the Caribbean, <i>G. cancriformis</i>, with recently divergent lineages in the North, Central, and South America. 
     </p>
     
 ![](https://user-images.githubusercontent.com/21958390/85926390-35190680-b86d-11ea-94cf-8a307f20bd0d.jpg)
