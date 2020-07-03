@@ -76,7 +76,7 @@
 <br><i>Global biogeography   of ogre-faced   spider mirrors geologic history</i></p>
 <hr />
 <h3>Outreach and mentoring</h3>
-<p>2018-2019 | Vermont Commmons School vsit to arachnid lab
+<p>2018-2019 | Vermont Commons School visit to arachnid lab
 <br><i>Intro to biogeography and spiders of the Caribbean for 10th graders</i></p>
 <p>2018-2019 | Zadock Thompson Museum Invertebrate Collection Open House 
 <br><i>Hosted an open house for UVM students and the Vermont community to come and visit the collection of arachnids and insects at the zoological collections on campus</i></p>
