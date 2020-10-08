@@ -75,7 +75,9 @@
 <p>2015 | Biolunch, UVM Department of Biology, Burlington, VT
 <br><i>Global biogeography   of ogre-faced   spider mirrors geologic history</i></p>
 <hr />
-<h3>Outreach and mentoring</h3>
+<h3>Outreach, museum experience, and mentoring</h3>
+<p>2020 | Invertebrate Collections Manager
+<br><i>Coordinated the volunteer program and facilitated curation of invertabrates at the Zadock Thompson Zoological Collections at the University of Vermont</i></p>
 <p>2018-2019 | Vermont Commons School visit to arachnid lab
 <br><i>Intro to biogeography and spiders of the Caribbean for 10th graders</i></p>
 <p>2018-2019 | Zadock Thompson Museum Invertebrate Collection Open House 
