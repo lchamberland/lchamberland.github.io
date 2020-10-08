@@ -5,7 +5,7 @@ title: About me
 tags: about
 ---
 
-My research explores the interplay between long-distance dispersal and vicariance in the evolutionary history and biogeography of Deinopdae, the net-casting spiders. My research is part of an ongoing collaborative project, Caribbean Island Biogeography <a href="http://www.islandbiogeography.org">(CARBIO)</a>, aimed at understanding why the Caribbean is a biodiversity hotspot. Currently, I am expanding the project globally to investigate the evolutionary and ecological shifts relatated to the complex visual sensory system of these spiders. 
+I recently earned my PhD in biology with the <a href="http://www.theridiidae.com">Agnarsson Lab</a> at the University of Vermont. My dissertation work explored the interplay between long-distance dispersal and vicariance in shaping the evolutionary history and biogeography of spiders. My research is part of an ongoing collaborative project, Caribbean Island Biogeography <a href="http://www.islandbiogeography.org">(CARBIO)</a>, which uses the remarkably diverse study system of spiders to better understand how the island archapelligo has become a biodiversity hotspot. Currently, I am the Inbertebrate Collections Manager for the Zadock Thompson Zoological Collections at the <a href="https://www.uvm.edu/vtnaturalhistory">University of Vermont Natural History Museum</a>.
 
 {:.center}
 
