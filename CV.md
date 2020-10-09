@@ -11,7 +11,7 @@
 <p>My research explores the interplay between long-distance dispersal and vicariance in shaping the evolutionary history and biogeography of <i>Deinopis</i>, the net-casting spiders.</p>
 <hr />
 <h3>Education</h3>
-<p>2015-2020(expected) | PhD Biology, University of Vermont, Burlington, VT 
+<p>2015-2020 | PhD Biology, University of Vermont, Burlington, VT 
 <br><i>Advisor: Dr. Ingi Agnarsson
 <br>Dissertation title: Molecular phylogenetics and historical biogeography of spiders</i></p>
 <p>2009-2013 | BA Biology and Anthropology, University of Vermont, Burlington, VT`</p>
