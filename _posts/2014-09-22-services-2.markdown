@@ -2,7 +2,7 @@
 layout: default
 img: do.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: research
 description: |
 ---
   Research
