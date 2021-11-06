@@ -1,7 +1,7 @@
 ---
 layout: default
 img: phoes.png
-category: Services
+category: cv
 title: cv
 description: |
 ---
