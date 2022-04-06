@@ -1,6 +1,6 @@
 ---
 layout: default
-img: profile.png
+img: profile2.jpeg
 category: About
 title: About me
 description: |
