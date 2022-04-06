@@ -1,7 +1,7 @@
 ---
 layout: default
 img: profile.png
-category: Services
+category: About
 title: About me
 description: |
 ---
