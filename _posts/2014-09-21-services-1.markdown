@@ -1,8 +1,0 @@
----
-layout: default
-img: ipad.jpg
-category: Services
-title: About me
-description: |
----
-  I am a postdoc studying the evolution and biogeography of spiders at UC Davis in the Bond Lab. 
