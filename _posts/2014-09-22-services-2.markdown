@@ -5,4 +5,4 @@ category: Services
 title: Caribbean Island Biogeography
 description: |
 ---
-  I earned my PhD from the University of Vermont where I studied the historical biogeography of the net-casting spiders (_Deinopis_) and the spiny-backed orb-weavers (_Gasteracantha_) in the Caribbean.
+  I earned my PhD from the University of Vermont where I studied the historical biogeography of net-casting spiders (_Deinopis_) and spiny-backed orb-weavers (_Gasteracantha_) in the Caribbean.
