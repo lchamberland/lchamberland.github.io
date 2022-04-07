@@ -1,8 +1,10 @@
 ---
 layout: default
-img: trapdoor.png
+img: islands.png
 category: Services
-title: Trapdoor spiders
+title: Caribbean Island Biogeography
+
 description: |
 ---
-In the Bond Lab, my research focuses on trapdoor spiders across the California Floristic Province
+  I earned my PhD from the University of Vermont where I studied the historical biogeography of net-casting spiders (_Deinopis_) and spiny-backed orb-weavers (_Gasteracantha_) in the Caribbean.
+
