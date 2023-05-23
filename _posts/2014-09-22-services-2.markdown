@@ -2,9 +2,8 @@
 layout: default
 img: trapdoor.png
 category: Services
-title: Trapdoor spiders
+title: Spider Evolution
 
 description: |
 ---
 
-In the Bond Lab, my research focuses on trapdoor spiders across the California Floristic Province 
