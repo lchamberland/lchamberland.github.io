@@ -5,4 +5,4 @@ category: About
 title: About me
 description: |
 ---
-  I am a postdoc in the [Bond Lab](https://www.bondlab.org/) at UC Davis where I explore the evolution and biogeography of spiders. 
+  I am a postdoc in the [Vector Genetics Laboratory](https://vectorgeneticslab.ucdavis.edu/) at UC Davis. My current research focuses the population genetics of _Anopheles_ mosquitos in Sāo Tomé and Príncipe.
