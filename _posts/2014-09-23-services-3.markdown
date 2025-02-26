@@ -2,7 +2,7 @@
 layout: default
 img: trapdoor.png
 category: Services
-title: Spider Phylogenetics and Biogeography
+title: Spider Evolution and Biogeography
 
 description: |
 ---
