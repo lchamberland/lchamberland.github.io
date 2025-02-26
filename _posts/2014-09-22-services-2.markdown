@@ -4,7 +4,7 @@ img: trapdoor.png
 category: Services
 title: Mosquito Ecology
 
-description: TEST123 |
+description: |
 --- 
 As a postdoc in the [Vector Genetics Laboratory](https://vectorgeneticslab.ucdavis.edu/) at UC Davis, I studied the landscape ecology of *Anopheles* mosquitoes in São Tomé and Príncipe. Mosquitoes are the deadliest animals in the world, responsible for transmitting diseases like malaria, which continues to pose a major public health challenge. My research integrated remote sensing, ecological modeling, and landscape genetics to understand how habitat structure influences mosquito movement and population connectivity. These insights are critical for vector control strategies, including genetically engineered mosquitoes, a key focus of our lab. Our findings were recently published in [*Landscape Ecology*](https://link.springer.com/article/10.1007/s10980-025-02059-3).
 
