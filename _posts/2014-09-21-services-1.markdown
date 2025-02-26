@@ -6,5 +6,8 @@ title: About me
 description: |
 ---
 I am a biologist at an environmental consulting company based in California, where I help assess and quantify potential impacts to the state’s diverse natural resources. My work supports regulatory compliance and mitigation planning for infrastructure projects, ensuring that impacts to wildlife, vegetation, and sensitive habitats are properly considered. I am also expanding my knowledge of the California Environmental Quality Act (CEQA) and the National Environmental Policy Act (NEPA) to better understand how these regulations guide environmental assessments and permitting processes in California.
-
+<br>
+<br>
+<br>
+<br>
 [Contact Me](mailto:chamberlandlisa8@gmail.com)
