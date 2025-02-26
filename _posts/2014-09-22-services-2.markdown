@@ -4,7 +4,7 @@ img: trapdoor.png
 category: Services
 title: Mosquito Ecology
 
-description: |
+description: TEST123 |
 --- 
 As a postdoc in the Vector Genetics Laboratory at UC Davis, I studied the landscape ecology of Anopheles mosquitoes in São Tomé and Príncipe. My research integrated remote sensing, ecological modeling, and landscape genetics to understand how habitat structure influences mosquito movement and population connectivity. These insights are critical for vector control strategies, including the potential deployment of genetically engineered mosquitoes, a key focus of our lab. Our findings were recently published in Landscape Ecology.
 
