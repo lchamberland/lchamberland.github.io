@@ -1,6 +1,6 @@
 ---
 layout: default
-img: stppic2.png
+img: stp3.png
 category: Services
 title: Mosquito Ecology
 
