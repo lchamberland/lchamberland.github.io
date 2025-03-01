@@ -4,49 +4,32 @@
   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
     <div class="content-section-a">
-
         <div class="container">
-
-            <div class="row">
-                <div class="col-lg-8 col-sm-12">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
+            <div class="row align-items-center">
+                <div class="col-lg-6 col-sm-12">
                     <h2 class="section-heading">{{ post.title }}</h2>
-                    <div class="lead">{{ post.content }}</div>
+                    <p class="lead">{{ post.content }}</p>
                 </div>
-                <div class="<div class="col-lg-6 col-sm-12">
+                <div class="col-lg-6 col-sm-12">
                     <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
                 </div>
             </div>
-
         </div>
-        <!-- /.container -->
-
     </div>
-    <!-- /.content-section-a -->
     {% else %}
-
     <div class="content-section-b">
-
         <div class="container">
-
-            <div class="row">
-                <div class="col-lg-8 col-sm-12">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
+            <div class="row align-items-center">
+                <div class="col-lg-6 col-sm-12 order-lg-2">
                     <h2 class="section-heading">{{ post.title }}</h2>
-                    <div class="lead">{{ post.content }}</div>
+                    <p class="lead">{{ post.content }}</p>
                 </div>
-                <div class="col-lg-6 col-sm-12">
-                  <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
+                <div class="col-lg-6 col-sm-12 order-lg-1">
+                    <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
                 </div>
             </div>
-
         </div>
-        <!-- /.container -->
-
     </div>
-    <!-- /.content-section-b -->
     {% endif %}
 {% endfor %}
 </section>
